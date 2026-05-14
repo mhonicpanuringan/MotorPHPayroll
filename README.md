@@ -1,6 +1,4 @@
-# MotorPHPayroll
-
-## Milestone 1: GUI Development and Interface Refinement
+## GUI Development and Interface Refinement
 
 This project is a Java Swing-based GUI application developed for the MotorPH Employee App as part of MO-IT103 – Computer Programming 2.
 
